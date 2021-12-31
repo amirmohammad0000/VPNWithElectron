@@ -1,8 +1,6 @@
-# VPN With Electron
-
+# VPN With Electron;
 
 This project is a vpn that I created the betternet program environment and this is just the front end of the program and has no back end
-
 
 ![image](https://user-images.githubusercontent.com/74311184/136609134-3b7e10e1-ec84-444b-ae96-98c7e49d4620.png)
 ![image](https://user-images.githubusercontent.com/74311184/136609101-284e179e-e2a2-4214-89b7-37b6359b209b.png)
